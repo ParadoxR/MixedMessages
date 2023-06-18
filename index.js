@@ -1,8 +1,8 @@
-let array1 = ["phrase1", "phrase2", "phrase3"]
+let array1 = ["Where did you come from?", "You have something in your teeth.", "Cotton Eye Joe", "Shall I compare thee to a summer's day?", "Your United States Postal Service"]
 
-let array2 = ["monkey1", "monkey2", "monkey3"]
+let array2 = ["It's man's job to ask why why why.", "ACK ACK ACK", "The silo is always one problem away from disaster.", "I need a drink.", "Where are my PAAAAAANTS?"]
 
-let array3 = ["horse1", "horse2", "horse3"]
+let array3 = ["New boot scootin.", "Did you betray me?", "This just reminds people of that.", "Howdy hey.", "raucous laughter"]
 
 let arrays = [array1, array2, array3]
 
